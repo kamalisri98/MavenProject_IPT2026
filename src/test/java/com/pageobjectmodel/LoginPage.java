@@ -45,7 +45,9 @@ public class LoginPage extends Base_Class implements LoginPageInterfaceElements 
 		//showText(title);
 		//takeScreenshot("C:\\\\Users\\\\Win10\\\\eclipse-workspace\\\\MavenProject\\\\Screenshots\\.png");
 	}
-	
+	public static void main (String args[]) {
+		validloginpage();
+	}
 	
 
 }
